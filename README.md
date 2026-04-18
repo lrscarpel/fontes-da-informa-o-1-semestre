@@ -11,3 +11,4 @@ https://github.com/user-attachments/files/25956027/balancete_receita.xlsx.1.xlsx
 https://docs.google.com/spreadsheets/d/19HB8JEV6hIH7cVFf6rd-9ZEfIw8-Oeon/edit?usp=sharing&ouid=101810325832933042067&rtpof=true&sd=true
 <img width="1919" height="841" alt="image" src="https://github.com/user-attachments/assets/5aa669c7-76d7-4784-a8e8-f44a0d29f55b" />
 [fornecedores (2).xlsx](https://github.com/user-attachments/files/26845545/fornecedores.2.xlsx)
+<img width="1242" height="379" alt="image" src="https://github.com/user-attachments/assets/1b814261-e1ee-47c8-b3c5-3977cc598ace" />
